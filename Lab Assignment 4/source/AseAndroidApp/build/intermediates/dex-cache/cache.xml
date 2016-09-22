@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_5c7be3dc7574d93c36da088014a025834376a9e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c47a93cfce614a44501fabbc2005c572dc6149ea">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_34667035de6e8305eb6bf1df823a79c7f05e9230\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.0_66941cc7803c896d11f81938f9727072cf6f8b87\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_322f42496811041f14c5a4e9e54187162238da44\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_bfa7a36488aaaba48682ae10ecd4aa1b97903639\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_f95764f7798471ee0becf2101b95e9030f0d6413\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_e0947072c595d34647a461c22d8894062af6241e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.0_4012b152e158c9de156e396e4edab1172253edd4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.0_9bedfec530007dbd873a1763c24e784b1e0399e4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_bd738f0cbbec488667ab597d75d907e57cc3f488\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_8dab18f7b07a9dc089415e4c4a8e7f5f1173ee4e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="db816a9b10671be368cc441a11eed1d8bb50d1fa">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a2d479b95c2eeb5fd52b478d042840e9caeaaa6b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.0_621afb8d0799c80461864df8b4ea6d60376188ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_3ab78c6b9c08c742710677d4ad5628df9f9d8c1a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_2de26eb25c3b31e89e6c57e195a97145545db1bd\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_fc692448476e172c11a012a8fcc2d5f30d3db72c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_db51aadb6d0733d7a66777b87915ed9423fb6c48\classes.dex" />
+    </item>
+
+</items>
