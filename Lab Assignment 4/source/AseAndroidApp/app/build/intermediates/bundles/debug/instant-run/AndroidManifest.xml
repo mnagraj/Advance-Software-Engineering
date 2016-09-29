@@ -39,15 +39,15 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
-        <activity android:name="com.example.nagar.aseandroidapp.MainActivity" >
+        <activity android:name="com.example.nagar.aseandroidapp.activity" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.example.nagar.aseandroidapp.display" />
-        <activity android:name="com.example.nagar.aseandroidapp.Signup" />
+        <activity android:name="com.example.nagar.aseandroidapp.home" />
+        <activity android:name="com.example.nagar.aseandroidapp.signup" />
         <!--
              The API key for Google Maps-based APIs is defined as a string resource.
              (See the file "res/values/google_maps_api.xml").

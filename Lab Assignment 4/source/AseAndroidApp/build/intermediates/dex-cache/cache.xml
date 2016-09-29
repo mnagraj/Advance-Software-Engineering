@@ -12,7 +12,7 @@
         jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="3c4247d4483d4ce1c007f5c1fd047a979fcdc98f">
+        sha1="0e273cb32f8bd15511dc173a4ceef6983ae4791d">
         <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_34667035de6e8305eb6bf1df823a79c7f05e9230\classes.dex" />
     </item>
     <item
@@ -390,7 +390,7 @@
         jar="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.1"
-        sha1="223e60c98735a343405731b3e0a16b4769f192f9">
+        sha1="7ae33d92c87a0690a013ddd18c4e296c2c8e9a05">
         <dex dex="C:\Users\nagar\AndroidStudioProjects\AseAndroidApp\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_a2d479b95c2eeb5fd52b478d042840e9caeaaa6b\classes.dex" />
     </item>
     <item

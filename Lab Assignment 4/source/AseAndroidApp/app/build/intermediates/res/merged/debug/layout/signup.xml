@@ -2,7 +2,7 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="match_parent"
-    android:background="@color/accent_material_dark"
+    android:background="@android:color/holo_purple"
     android:clickable="true">
 
     <TextView
@@ -11,48 +11,54 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Name"
         android:id="@+id/textView4"
-        android:textColor="@color/colorPrimary"
-        android:layout_above="@+id/TFname"
+        android:textColor="@color/bright_foreground_material_light"
+        android:layout_marginTop="36dp"
+        android:layout_alignParentTop="true"
         android:layout_alignParentStart="true" />
 
     <EditText
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/TFname"
-        android:layout_above="@+id/textView6"
-        android:layout_alignParentStart="true" />
+        android:layout_alignBaseline="@+id/textView4"
+        android:layout_alignBottom="@+id/textView4"
+        android:layout_toEndOf="@+id/textView4"
+        android:layout_alignStart="@+id/TFemail" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Email Address"
+        android:text="Email "
         android:id="@+id/textView6"
-        android:textColor="@color/colorPrimary"
-        android:layout_above="@+id/TFemail"
-        android:layout_alignParentStart="true" />
+        android:textColor="@color/bright_foreground_material_light"
+        android:layout_alignTop="@+id/TFemail"
+        android:layout_alignEnd="@+id/textView4" />
 
     <EditText
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/TFemail"
-        android:layout_above="@+id/textView9"
-        android:layout_alignParentStart="true" />
+        android:layout_below="@+id/TFname"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="44dp"
+        android:layout_alignStart="@+id/TFphonenumber" />
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Phone Number"
+        android:text="Phone "
         android:id="@+id/textView9"
-        android:textColor="@color/colorPrimary"
-        android:layout_above="@+id/TFphonenumber"
+        android:textColor="@color/bright_foreground_inverse_material_dark"
+        android:layout_alignBottom="@+id/TFphonenumber"
         android:layout_alignParentStart="true" />
     <EditText
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/TFphonenumber"
-        android:layout_above="@+id/textView7"
-        android:layout_alignParentStart="true" />
+        android:layout_below="@+id/TFemail"
+        android:layout_alignParentEnd="true"
+        android:layout_toEndOf="@+id/textView7" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -60,16 +66,16 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="UserName"
         android:id="@+id/textView7"
-        android:textColor="@color/colorPrimary"
-        android:layout_above="@+id/TFusername"
-        android:layout_alignParentStart="true" />
+        android:textColor="@color/bright_foreground_material_light"
+        android:layout_alignBottom="@+id/TFusername" />
 
     <EditText
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
         android:id="@+id/TFusername"
-        android:layout_above="@+id/textView8"
-        android:layout_alignParentStart="true" />
+        android:layout_below="@+id/TFphonenumber"
+        android:layout_toEndOf="@+id/textView7"
+        android:layout_marginTop="21dp" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -77,8 +83,8 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:text="Password"
         android:id="@+id/textView8"
-        android:textColor="@color/colorPrimary"
-        android:layout_above="@+id/TFpass1"
+        android:textColor="@color/bright_foreground_inverse_material_dark"
+        android:layout_alignBottom="@+id/TFpass1"
         android:layout_alignParentStart="true" />
 
     <EditText
@@ -87,29 +93,11 @@
         android:inputType="textPassword"
         android:ems="10"
         android:id="@+id/TFpass1"
-        android:layout_above="@+id/textView5"
-        android:layout_alignParentStart="true" />
+        android:layout_below="@+id/TFusername"
+        android:layout_toEndOf="@+id/textView7"
+        android:layout_marginTop="41dp" />
 
 
-
-    <TextView
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:textAppearance="?android:attr/textAppearanceLarge"
-        android:text="Confirm Password"
-        android:id="@+id/textView5"
-        android:textColor="@color/colorPrimary"
-        android:layout_above="@+id/TFpass2"
-        android:layout_alignParentStart="true" />
-
-    <EditText
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:inputType="textPassword"
-        android:ems="10"
-        android:id="@+id/TFpass2"
-        android:layout_alignParentStart="true"
-        android:layout_above="@+id/Bsignupbutton" />
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -117,8 +105,9 @@
         android:id="@+id/Bsignupbutton"
         android:onClick="onSignupClick"
         android:textColor="@color/colorAccent"
+        android:layout_marginBottom="49dp"
         android:layout_alignParentBottom="true"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignStart="@+id/TFpass1" />
 
 
 

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+android:background="@android:color/holo_purple"
+android:clickable="true"
+android:orientation="vertical"
+android:weightSum="1"
+    android:textAlignment="center">
+
+<TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:textAppearance="?android:attr/textAppearanceLarge"
+    android:text="Google Text to Speech ! "
+    android:id="@+id/textView"
+    android:background="@color/abc_primary_text_material_light"
+    android:textColor="@color/bright_foreground_inverse_material_dark"
+    android:textAlignment="center"
+    android:textStyle="italic"
+    android:layout_marginLeft="0dp"
+    android:layout_marginTop="89dp"
+    android:textColorHighlight="@color/abc_search_url_text_normal"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentStart="true" />
+
+    <EditText
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/editText"
+    android:layout_marginLeft="0dp"
+    android:layout_marginTop="78dp"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentStart="true"
+        android:textColor="@color/abc_secondary_text_material_dark" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Speaking"
+        android:id="@+id/bspeak"
+        android:layout_marginTop="84dp"
+        android:layout_below="@+id/editText"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Stop Speaking"
+        android:id="@+id/bstopspeaking"
+        android:layout_marginEnd="16dp"
+        android:layout_alignBaseline="@+id/bspeak"
+        android:layout_alignBottom="@+id/bspeak"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
+
