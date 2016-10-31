@@ -1,8 +1,8 @@
 function getCredentials(cb) {
   var data = {
     'grant_type': 'client_credentials',
-    'client_id': CLIENT_ID,
-    'client_secret': CLIENT_SECRET
+    'client_id': PGW1FlBdkU2hg6KBfNoPRy3iTpySQAWJVaTKypQN,
+    'client_secret':8T8KVTCDUQbGHIX1iNcpVqbNhgOy8ZmpohguenoN
   };
   var url = 'https://api.clarifai.com/v1/token';
 
