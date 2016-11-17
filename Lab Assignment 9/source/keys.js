@@ -1,3 +1,0 @@
-
-var CLIENT_ID = 'PGW1FlBdkU2hg6KBfNoPRy3iTpySQAWJVaTKypQN';
-var CLIENT_SECRET = '8T8KVTCDUQbGHIX1iNcpVqbNhgOy8ZmpohguenoN';
